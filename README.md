@@ -28,8 +28,6 @@ The project analyses employee salary and department data by answering common bus
 - Aggregate Functions (SUM, AVG, MIN, MAX, COUNT)
 - Subqueries
 - CASE Statements
-- Common Table Expressions (CTEs)
-- Window Functions (RANK)
 
 ## Dataset
 
