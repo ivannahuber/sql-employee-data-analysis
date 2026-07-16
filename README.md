@@ -1,5 +1,4 @@
 # SQL Employee Data Analysis
-# SQL Employee Data Analysis
 
 This project was created as part of my SQL learning journey and demonstrates my ability to analyse structured data using Microsoft SQL Server.
 
